@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MPA/static/css/main.51ef05d8.css",
+    "main.js": "/MPA/static/js/main.a288fbc9.js",
+    "static/media/6.svg": "/MPA/static/media/6.e593d38727d9156b022a5723ae8a7e44.svg",
+    "static/media/Nuestros_Clientes.svg": "/MPA/static/media/Nuestros_Clientes.703fd2232f5531ccbb67fa8a027043b3.svg",
+    "static/media/4.svg": "/MPA/static/media/4.47828ad513554eb6f2ed4b4ee1115f93.svg",
+    "static/media/8.svg": "/MPA/static/media/8.73da9fcf151c0c0072861a8da3a935fa.svg",
+    "static/media/14_c.svg": "/MPA/static/media/14_c.24402cc1ab04d0eda98ff81c6f8ecae4.svg",
+    "static/media/12_c.svg": "/MPA/static/media/12_c.60d6295d3f075943d03df1905f966f2d.svg",
+    "static/media/Aviso_priv.svg": "/MPA/static/media/Aviso_priv.7f56696687b6aedb856276e35fd58382.svg",
+    "static/media/E_Commerce.svg": "/MPA/static/media/E_Commerce.29a8a6b8d784ac8e05c7e11673e500da.svg",
+    "static/media/Posicionamiento_Web.svg": "/MPA/static/media/Posicionamiento_Web.ff5ab1b95c43ecc63f783fb1a6ab9770.svg",
+    "static/media/10_c.svg": "/MPA/static/media/10_c.694a7d92d96de3b43756bb842e2d0f89.svg",
+    "static/media/impresion.svg": "/MPA/static/media/impresion.7b8013d7f966f69c987604f9ca36a54b.svg",
+    "static/media/Nuestros_Pilares.svg": "/MPA/static/media/Nuestros_Pilares.b6b68aa27a918924057e214ab40f1021.svg",
+    "static/media/Branding_Diseno.svg": "/MPA/static/media/Branding_Diseno.dedb13c0478e81170b6b29455279f5f6.svg",
+    "static/media/1.svg": "/MPA/static/media/1.da4964d9197163efbfcf5c05c0798e0b.svg",
+    "index.html": "/MPA/index.html",
+    "main.51ef05d8.css.map": "/MPA/static/css/main.51ef05d8.css.map",
+    "main.a288fbc9.js.map": "/MPA/static/js/main.a288fbc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51ef05d8.css",
+    "static/js/main.a288fbc9.js"
+  ]
+}
