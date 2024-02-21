@@ -17,7 +17,7 @@ function Footer() {
             </ul>
           </div>
           <div>
-            <h3 className="text-xl font-bold mb-4">Help Center</h3>
+            <h3 className="text-xl font-bold mb-4">Centro de ayuda</h3>
             <ul>
               <li><a href="#">Discord</a></li>
               <li><a href="#">Twitter</a></li>
