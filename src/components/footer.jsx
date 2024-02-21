@@ -30,7 +30,7 @@ function Footer() {
             <ul>
               <li><a href="#">Politica de Privacidad </a></li>
               <li><a href="#">Licencia</a></li>
-              <li><a href="#">Términos &amp; Conditions</a></li>
+              <li><a href="#">Términos &amp; Condiciones</a></li>
             </ul>
           </div>
         </div>
